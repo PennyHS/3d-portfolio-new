@@ -27,3 +27,12 @@ A modern 3D portfolio website built with Three.js, React, and Vite.
 * **Build Tool**: Vite
 * **Deployment**: Vercel
 * **3D Rendering**: Three.js, React Three Fiber
+
+---
+
+## 🙏 Acknowledgments
+
+* This project was inspired by tutorials from [JavaScript Mastery](https://www.youtube.com/@javascriptmastery) on YouTube
+* Three.js community
+* React Three Fiber maintainers
+* And any other resources or inspirations you used
