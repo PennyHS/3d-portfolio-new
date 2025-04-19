@@ -32,7 +32,7 @@ A modern 3D portfolio website built with Three.js, React, and Vite.
 
 ## 🙏 Acknowledgments
 
-* This project was inspired by tutorials from [JavaScript Mastery](https://www.youtube.com/@javascriptmastery) on YouTube
+* This project was inspired by tutorials from [JavaScript Mastery](https://www.youtube.com/@javascriptmastery) on YouTube and the [GitHub repository](https://github.com/adrianhajdin)
 * Three.js community
 * React Three Fiber maintainers
 * And any other resources or inspirations you used
